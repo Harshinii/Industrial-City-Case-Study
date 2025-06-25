@@ -1,6 +1,6 @@
 # INDUSTRIAL CITY DATA ANALYSIS - STRATEGIC INSIGHTS
 
-The following insights are produced by analysing the [dataset](url) using the [python code](https://github.com/Harshinii/Industrial-City-Case-Study/blob/main/Data%20Analysis/Data_Analysis.ipynb)
+The following insights are produced by analysing the [dataset](https://github.com/Harshinii/Industrial-City-Case-Study/blob/main/Data%20Analysis/Industrial_City_Case_Study.csv) using the [python code](https://github.com/Harshinii/Industrial-City-Case-Study/blob/main/Data%20Analysis/Data_Analysis.ipynb)
 
 ## 1. UTILITY DEMAND vs CAPACITY ANALYSIS
 
