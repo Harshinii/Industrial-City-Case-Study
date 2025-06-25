@@ -1,5 +1,7 @@
 # INDUSTRIAL CITY DATA ANALYSIS - STRATEGIC INSIGHTS
 
+The following insights are produced by analysing the [dataset](url) using the [python code](url)
+
 ## 1. UTILITY DEMAND vs CAPACITY ANALYSIS
 
 ### 1.1 CLUSTERS WITH UTILITY CAPACITY SHORTFALLS
@@ -69,13 +71,13 @@ Top job creators (2025):
 
 Top job creators (2030):
 
-Cluster  New Jobs   Growth %   Current    Projected 
--------------------------------------------------------
-10       480        92.3       520        1000      
-9        430        102.4      420        850       
-4        400        88.9       450        850       
-7        400        50.0       800        1200      
-6        380        118.8      320        700       
+| Cluster | New Jobs |  Growth % | Current  |  Projected  |
+| ------- | -------- | --------- | -------- | ----------- | 
+| 10      | 480      |  92.3     |  520     |   1000      |
+| 9       | 430      |  102.4    |  420     |   850       |
+| 4       | 400      |  88.9     |  450     |   850       |
+| 7       | 400      |  50.0     |  800     |   1200      |
+| 6       | 380      |  118.8    |  320     |   700       |
 
 ### 2.2 GDP CONTRIBUTION LEADERS
 
