@@ -1,6 +1,6 @@
 # STRATEGIC RECOMMENDATIONS SUMMARY
 
-Following summary of insights has been drawn from the PowerBI dashboard[] and data analysis[]
+Following summary of insights has been drawn from the PowerBI dashboard[Data Visualization/Industrial City Dashboard.pbix] and data analysis[]
 
 ## 🏆 TOP PERFORMING CLUSTERS
 
