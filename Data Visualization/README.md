@@ -1,6 +1,6 @@
 # STRATEGIC RECOMMENDATIONS SUMMARY
 
-Following summary of insights has been drawn from the PowerBI dashboard[]
+Following summary of insights has been drawn from the PowerBI dashboard[] and data analysis[]
 
 ## 🏆 TOP PERFORMING CLUSTERS
 
